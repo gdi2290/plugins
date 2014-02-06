@@ -1,0 +1,26 @@
+{
+  "name": "gulp-plugins",
+  "version": "0.0.1",
+  "description": "[Gulp Plugins](http://gulpjs.com/plugins/) =================================",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gulpjs/plugins.git"
+  },
+  "keywords": [
+    "Gulp",
+    "NPM",
+    "Search"
+  ],
+  "author": [
+    "Robin Böhm <robinboehm@googlemail.com>",
+    "Max Ovsiankin <max@ovsankin.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gulpjs/plugins/issues"
+  }
+}
